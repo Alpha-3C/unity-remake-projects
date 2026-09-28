@@ -1,0 +1,3 @@
+[submodule "1.2048"]
+	path = 1.2048
+	url = https://github.com/Alpha-3C/unity-2048.git
